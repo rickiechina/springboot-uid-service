@@ -10,7 +10,7 @@
 
 访问Spring Cloud技术专栏，了解更多的技术细节和项目代码。
 
-
+![](https://raw.githubusercontent.com/rickiechina/springboot-uid-service/master/images/SpringCloud-Tech.png)
 
 https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/album_detail.html?content_id=6752726260226457863
 
